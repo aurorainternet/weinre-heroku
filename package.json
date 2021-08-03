@@ -2,7 +2,8 @@
     "name": "weinre-heroku",
     "version": "2.0.0-pre-HA5N9T49",
     "dependencies": {
-        "weinre": "2.0.0-pre-I0Z7U9OV"
+        "weinre": "2.0.0-pre-I0Z7U9OV",
+        "connect-wwwhisper": "*"
     },
     "engines": {
         "node": "10.13.x"
